@@ -1,5 +1,7 @@
 # My solution
 
+Repo link:
+https://github.com/fosteeco/gradie-sign-up-challenge
 The solution is hosted on github pages here:
 https://fosteeco.github.io/gradie-sign-up-challenge/
 
